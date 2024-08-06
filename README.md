@@ -2,12 +2,8 @@
 <h3 align="center">A senior in college and tech enthusiest.</h3>
 
 <div align="center">
-  <a href="https://u8views.com/github/Matrix278"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
+ <a href="https://u8views.com/github/gavindsturm"><img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg"></a>
 </div>
-
-<!-- <div align="center"> <img src="https://github.com/Matrix278/Matrix278/blob/master/assets/matrix-has-you.gif" alt="matrix278" /> </div> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
 - 🔭 I’m currently studying Professional Computer Science and Cyber Security at **Montana State University**
 
@@ -36,10 +32,3 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<div align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
-    </a>
-</div>
-
-<!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
