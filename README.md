@@ -11,8 +11,7 @@ I'm Gavin Sturm!
 
 <h2>Current Focus:</h2>
 
--Furthering my coding and cyber security skills with projects.
--Actively looking for internships to get my carreer started.
+-Learning new things and exploring internship opportunities.
 
 
 __Check out my GitHub repository:__
@@ -54,4 +53,4 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:gavindsturm@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
