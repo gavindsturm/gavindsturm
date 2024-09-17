@@ -5,15 +5,15 @@
  <a href="https://u8views.com/github/gavindsturm"><img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg"></a>
 </div>
 
-- 🔭 I’m currently studying Professional Computer Science and Cyber Security at **Montana State University**
+- I’m currently studying Professional Computer Science and Cyber Security at **Montana State University**
 
-- 🌱 I’m currently **Applying my skills on projects to further my knowledge**
+- I’m currently **Applying my skills on projects to further my knowledge**
 
-- 🤝 I’m exploring potentional internship opportiunties
+- I’m exploring potentional internship opportiunties
 
-- 👨‍💻 All of my projects are available here in GitHub 😄
+- Some of my projects are available here in GitHub 😄
 
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/gavin-sturm-9bb34a213), or by [mail](mailto:gavindsturm@gmail.com)
+- How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/gavin-sturm-9bb34a213), or by [mail](mailto:gavindsturm@gmail.com)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
