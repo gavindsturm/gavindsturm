@@ -4,14 +4,16 @@
 <div align="center">
  <a href="https://u8views.com/github/gavindsturm"><img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg"></a>
 </div>
-<h2 aligh="left">About Me</h2>
+<h3 aligh="left">About Me</h3>
 I am currently pursuing a Bachelor of Science in Computer Science (Professional Route) at Montana State University. With a deep passion for technology and innovation, I am eager to apply my skills and knowledge to the industry and embark on a rewarding career in software development and tech.
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
+
+<h2 align="left">Tech Stack</h2>
  
-<h2 align="left">Languages:</h2>
+<h3 align="left">Languages:</h3>
  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -22,7 +24,7 @@ I am currently pursuing a Bachelor of Science in Computer Science (Professional 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 
-<h2 align="left">Tech Stack:</h2>
+<h3 align="left">Developer Tools:</h3>
 
 ![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![WIND](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
