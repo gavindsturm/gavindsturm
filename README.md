@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Gavin!</h1>
-<h3 align="center">A senior in college and tech enthusiest.</h3>
+<h3 align="center">Senior at Montana State University</h3>
 
 <div align="center">
  <a href="https://u8views.com/github/gavindsturm"><img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg"></a>
 </div>
 
-- I’m currently studying Professional Computer Science and Cyber Security at **Montana State University**
+- I’m currently obtaining a Bachlor of Science in Computer Science (Professional Route) **Montana State University**
 
 - I’m currently **Applying my skills on projects to further my knowledge**
 
