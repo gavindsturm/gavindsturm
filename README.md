@@ -26,7 +26,7 @@ I am currently pursuing a Bachelor of Science in Computer Science (Professional 
 ![TYPESX](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">Developer Tools:</h3>
+<h3 align="left">Tools:</h3>
 
 ![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![WIND](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
