@@ -22,7 +22,9 @@ I am currently pursuing a Bachelor of Science in Computer Science (Professional 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C+-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![R](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![TYPESX](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -38,5 +40,6 @@ I am currently pursuing a Bachelor of Science in Computer Science (Professional 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![STRIPE](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
