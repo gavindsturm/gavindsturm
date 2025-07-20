@@ -1,11 +1,21 @@
 <h1 align="center">Hello World! 👋, I'm Gavin!</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Science Nerd</h3>
 
 <div align="center">
  <a href="https://u8views.com/github/gavindsturm"><img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg"></a>
 </div>
 <h3 aligh="left">About Me</h3>
 I am currently pursuing a Bachelor of Science in Computer Science (Professional Route) at Montana State University. With a deep passion for technology and innovation, I am eager to apply my skills and knowledge to the industry and embark on a rewarding career in software development and tech.
+
+<h3 aligh="left">Current Endeavors</h3>
+Currently I am working towards my carrer in cybersecrity with Hudson Sky. I handle network administrations, service desk help, compliance issues, and more. I own my own company called "LeadLock Automations" where I imporve the scalability and customer relations with business owners who struggle to keep up with the busy work.
+
+<h3 align="left">This Week</h3>
+<ul>
+  <li>Over 60,000 emails automated</li>
+  <li>2 new full stack website customers signed with SEO and full automation</li>
+  <li>30+ hours saved for business owners</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
