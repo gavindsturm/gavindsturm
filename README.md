@@ -7,8 +7,14 @@
 <h3 aligh="left">About Me</h3>
 I am currently pursuing a Bachelor of Science in Computer Science (Professional Route) at Montana State University. With a deep passion for technology and innovation, I am eager to apply my skills and knowledge to the industry and embark on a rewarding career in software development and tech.
 
-<h3 aligh="left">Current Endeavors</h3>
-Currently I am working towards my carrer in cybersecrity with Hudson Sky. I handle network administrations, service desk help, compliance issues, and more. I own my own company called "LeadLock Automations" where I imporve the scalability and customer relations with business owners who struggle to keep up with the busy work.
+<h3 align="left">Current Endeavors</h3>
+<p>
+  Currently I am working towards my career in cybersecurity with Hudson Sky. I handle network administration, service desk help, compliance issues, and more.
+  I own my own company called
+  <a href="https://leadlock-ai-landing-page.vercel.app/" target="_blank" rel="noopener noreferrer">LeadLock Automations</a>
+  where I improve scalability and customer relations for business owners who struggle to keep up with the busy work.
+</p>
+
 
 <h3 align="left">This Week</h3>
 <ul>
