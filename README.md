@@ -1,11 +1,12 @@
-<h1 align="center">Hello World! 👋, I'm Gavin!</h1>
-<h3 align="center">Computer Science Nerd</h3>
+<h1 align="center">Hello World!, I'm Gavin!</h1>
+<h3 align="center">Software Engineer | Systems • Backend • Security • Automation</h3>
 
 <div align="center">
  <a href="https://u8views.com/github/gavindsturm"><img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg"></a>
 </div>
 <h3 aligh="left">About Me</h3>
-I am currently pursuing a Bachelor of Science in Computer Science (Professional Route) at Montana State University. With a deep passion for technology and innovation, I am eager to apply my skills and knowledge to the industry and embark on a rewarding career in software development and tech.
+Computer Science student at Montana State University (Class of 2026) focused on building reliable, scalable, and secure systems.  
+I work across backend engineering, distributed systems, automation, and infrastructure with strong foundations in algorithms, operating systems, and database internals.
 
 <h3 align="left">Current Endeavors</h3>
 <p>
