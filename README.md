@@ -1,67 +1,110 @@
 <h1 align="center">Gavin Sturm</h1>
-<h3 align="center">Software Engineer | Systems • Backend • Security • Automation</h3>
+<h3 align="center">Software Engineer • Backend • Systems • Security • Automation</h3>
 
 <p align="center">
-Computer Science student at Montana State University (Class of 2026) focused on building reliable, scalable, and secure systems.  
-I work across backend engineering, distributed systems, automation, and infrastructure with strong foundations in algorithms, operating systems, and database internals.
+Computer Science @ Montana State University (Class of 2026) <br>
+I build reliable, scalable, and secure backend systems with strong foundations in distributed systems, database internals, and low-level engineering.
 </p>
 
 ---
 
 ## About Me
 
-- B.S. Computer Science — Montana State University (May 2026)  
-- Backend, systems, and infrastructure focused engineer  
-- Experience with production automation, distributed systems, and secure data workflows  
-- Strong in Java, Python, C/C++, SQL, and system-level programming  
+- Computer Science, Montana State University — May 2026  
+- Backend / Systems focused engineer  
+- Experience building production automation and secure data workflows  
+- Strong in performance, concurrency, and system reliability  
+- Interested in backend infrastructure, distributed systems, and database engines  
 
 ---
 
-## Current Work
+## Experience
 
 **Cybersecurity / IT Specialist — Hudson Sky**  
-- System monitoring, incident response, and performance optimization in regulated environments  
-- Network, infrastructure, and security operations  
+- Monitor systems, detect threats, and respond to incidents in regulated environments  
+- Improve infrastructure reliability, performance, and security posture  
+- Work with networking, system hardening, and operational security  
 
 **Founder — LeadLock Automations**  
-- Design and deploy scalable backend automation systems for real-world businesses  
-- Built secure data workflows with authentication, authorization, encryption, and logging  
-- Automated high-volume processes saving significant operational time  
+- Designed and deployed scalable backend automation systems for real businesses  
+- Built secure data workflows (authentication, RBAC, encryption, logging)  
+- Automated high-volume operations improving efficiency and reliability  
 
 ---
 
-## Key Engineering Highlights
+## Engineering Highlights
 
-- Built multithreaded data pipeline processing **30,000+ records** with full integrity + rollback  
-- Engineered production automation systems handling **high-volume operations reliably**  
+- Built multithreaded data pipeline processing **30,000+ records** with integrity + rollback  
 - Implemented database indexing, ACID transactions, and concurrency control in C++  
-- Designed secure distributed systems with RBAC, encryption, and audit logging  
+- Designed secure distributed automation systems with audit logging and role-based access  
+- Built backend systems handling high-volume operations reliably  
+- Strong understanding of memory, threading, and performance optimization  
 
 ---
 
 ## Tech Stack
 
 ### Languages
-Python • Java • C • C++ • JavaScript • SQL • C# • TypeScript • HTML/CSS  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
+</p>
 
-### Systems / Backend
-Distributed Systems • Multithreading • Operating Systems • Database Internals • Microservices • REST APIs • Linux • Server Architecture  
+---
 
-### Security
-Access Control • RBAC • Encryption • System Hardening • Secure Architecture • Compliance (NIST / HIPAA)
+### Backend • Systems • Infrastructure
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+</p>
 
-### Tools
-Git • Linux • Windows Server • MySQL • React • Tailwind • Stripe • Google Cloud • VS Code  
+---
+
+### Frontend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="42"/>
+</p>
+
+---
+
+### Security • Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
+</p>
 
 ---
 
 ## Current Focus
 
-- Distributed systems & backend architecture  
-- Database internals & storage engines  
-- Performance optimization & concurrency  
-- Scalable automation systems  
-- Low-level systems programming (C/C++)  
+- Distributed Systems & Backend Architecture  
+- Database Internals & Storage Engines  
+- Performance Optimization & Concurrency  
+- Scalable Automation Systems  
+- Low-Level Systems Programming (C / C++)  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gavindsturm&show_icons=true&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavindsturm&layout=compact&hide_border=true" height="165"/>
+</p>
 
 ---
 
@@ -69,6 +112,6 @@ Git • Linux • Windows Server • MySQL • React • Tailwind • Stripe •
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
 </a>
 </p>
