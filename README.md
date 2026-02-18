@@ -21,24 +21,24 @@ I build reliable, scalable, and secure backend systems with strong foundations i
 ## Experience
 
 **Cybersecurity / IT Specialist — Hudson Sky**  
-- Monitor systems, detect threats, and respond to incidents in regulated environments  
+- Monitor systems, detect threats, and respond to incidents  
 - Improve infrastructure reliability, performance, and security posture  
-- Work with networking, system hardening, and operational security  
+- Networking, system hardening, and operational security  
 
 **Founder — LeadLock Automations**  
-- Designed and deployed scalable backend automation systems for real businesses  
-- Built secure data workflows (authentication, RBAC, encryption, logging)  
-- Automated high-volume operations improving efficiency and reliability  
+- Designed scalable backend automation systems for businesses  
+- Built secure data workflows (RBAC, encryption, logging, audit trails)  
+- Automated high-volume operations improving reliability and efficiency  
 
 ---
 
 ## Engineering Highlights
 
-- Built multithreaded data pipeline processing **30,000+ records** with integrity + rollback  
-- Implemented database indexing, ACID transactions, and concurrency control in C++  
-- Designed secure distributed automation systems with audit logging and role-based access  
-- Built backend systems handling high-volume operations reliably  
-- Strong understanding of memory, threading, and performance optimization  
+- Multithreaded data pipeline processing **30,000+ records** with integrity + rollback  
+- Implemented indexing, ACID transactions, and concurrency control in C++  
+- Designed secure distributed automation systems with audit logging + RBAC  
+- Backend systems handling high-volume operations reliably  
+- Strong knowledge of memory, threading, and performance optimization  
 
 ---
 
@@ -46,45 +46,51 @@ I build reliable, scalable, and secure backend systems with strong foundations i
 
 ### Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
 
 ---
 
 ### Backend • Systems • Infrastructure
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
 
 ---
 
 ### Frontend
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
 </p>
 
 ---
 
-### Security • Tools
+### Data • Automation • Business Tools
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/retool/3D3D3D" height="40"/>
+<img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="40"/>
+<img src="https://cdn.simpleicons.org/datadog/632CA6" height="40"/>
+</p>
+
+<p>
+<b>Retool • UniFi • Power BI • NinjaRMM • Automation Platforms • Monitoring</b>
 </p>
 
 ---
@@ -102,8 +108,8 @@ I build reliable, scalable, and secure backend systems with strong foundations i
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gavindsturm&show_icons=true&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavindsturm&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gavindsturm&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavindsturm&layout=compact&theme=default&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 ---
