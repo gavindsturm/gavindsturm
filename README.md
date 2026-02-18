@@ -104,16 +104,6 @@ I build reliable, scalable, and secure backend systems with strong foundations i
 - Scalable Automation Systems  
 - Low-Level Systems Programming (C / C++)  
 
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gavindsturm&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavindsturm&layout=compact&theme=default&hide_border=true&cache_seconds=86400" height="165"/>
-</p>
-
----
 
 ## Connect
 
