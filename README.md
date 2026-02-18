@@ -1,4 +1,5 @@
 <h1 align="center">Gavin Sturm</h1>
+<div align="center"> <a href="https://u8views.com/github/gavindsturm"><img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg"></a> </div>
 <h3 align="center">Software Engineer • Backend • Systems • Security • Automation</h3>
 
 <p align="center">
