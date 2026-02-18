@@ -1,62 +1,74 @@
-<h1 align="center">Hello World!, I'm Gavin!</h1>
+<h1 align="center">Gavin Sturm</h1>
 <h3 align="center">Software Engineer | Systems • Backend • Security • Automation</h3>
 
-<div align="center">
- <a href="https://u8views.com/github/gavindsturm"><img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg"></a>
-</div>
-<h3 aligh="left">About Me</h3>
+<p align="center">
 Computer Science student at Montana State University (Class of 2026) focused on building reliable, scalable, and secure systems.  
 I work across backend engineering, distributed systems, automation, and infrastructure with strong foundations in algorithms, operating systems, and database internals.
-
-<h3 align="left">Current Endeavors</h3>
-<p>
-  Currently I am working towards my career in cybersecurity with Hudson Sky. I handle network administration, service desk help, compliance issues, and more.
-  I own my own company called
-  <a href="https://leadlock-ai-landing-page.vercel.app/" target="_blank" rel="noopener noreferrer">LeadLock Automations</a>
-  where I improve scalability and customer relations for business owners who struggle to keep up with the busy work.
 </p>
 
+---
 
-<h3 align="left">This Week</h3>
-<ul>
-  <li>Over 60,000 emails automated</li>
-  <li>2 new full stack website customers signed with SEO and full automation</li>
-  <li>30+ hours saved for business owners</li>
-</ul>
+## About Me
 
-<h3 align="left">Connect with me:</h3>
+- B.S. Computer Science — Montana State University (May 2026)  
+- Backend, systems, and infrastructure focused engineer  
+- Experience with production automation, distributed systems, and secure data workflows  
+- Strong in Java, Python, C/C++, SQL, and system-level programming  
+
+---
+
+## Current Work
+
+**Cybersecurity / IT Specialist — Hudson Sky**  
+- System monitoring, incident response, and performance optimization in regulated environments  
+- Network, infrastructure, and security operations  
+
+**Founder — LeadLock Automations**  
+- Design and deploy scalable backend automation systems for real-world businesses  
+- Built secure data workflows with authentication, authorization, encryption, and logging  
+- Automated high-volume processes saving significant operational time  
+
+---
+
+## Key Engineering Highlights
+
+- Built multithreaded data pipeline processing **30,000+ records** with full integrity + rollback  
+- Engineered production automation systems handling **high-volume operations reliably**  
+- Implemented database indexing, ACID transactions, and concurrency control in C++  
+- Designed secure distributed systems with RBAC, encryption, and audit logging  
+
+---
+
+## Tech Stack
+
+### Languages
+Python • Java • C • C++ • JavaScript • SQL • C# • TypeScript • HTML/CSS  
+
+### Systems / Backend
+Distributed Systems • Multithreading • Operating Systems • Database Internals • Microservices • REST APIs • Linux • Server Architecture  
+
+### Security
+Access Control • RBAC • Encryption • System Hardening • Secure Architecture • Compliance (NIST / HIPAA)
+
+### Tools
+Git • Linux • Windows Server • MySQL • React • Tailwind • Stripe • Google Cloud • VS Code  
+
+---
+
+## Current Focus
+
+- Distributed systems & backend architecture  
+- Database internals & storage engines  
+- Performance optimization & concurrency  
+- Scalable automation systems  
+- Low-level systems programming (C/C++)  
+
+---
+
+## Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
-
-<h2 align="left">Tech Stack</h2>
- 
-<h3 align="left">Languages:</h3>
- 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C](https://img.shields.io/badge/C+-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C](https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![R](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TYPESX](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<h3 align="left">Tools:</h3>
-
-![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![WIND](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![ORA](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![ORA](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VIS](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![STRIPE](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+<a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
