@@ -102,9 +102,7 @@ Bridge  →  translate between engineering and the people making decisions
 **Frontend • Data • Customer Tools**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="38"/>
 <img src="https://cdn.simpleicons.org/retool/3D3D3D" height="38"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="38"/>
 <img src="https://cdn.simpleicons.org/datadog/632CA6" height="38"/>
 <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="38"/>
 </p>
