@@ -11,46 +11,45 @@ Gavin Sturm
 </a>
 </div>
 
-<h3 align="center">Software Engineer • Backend • Systems • Security • Automation</h3>
+<h3 align="center">Forward Deployed Engineer • AI • Data • Systems</h3>
 
 <p align="center">
 Computer Science @ Montana State University (Class of 2026) <br>
-I build reliable, scalable, and secure backend systems with strong foundations in distributed systems, database internals, and low-level engineering.
+I embed with customers to turn ambiguous, high-stakes problems into shipped systems — across logistics, healthcare, and defense. I build production software, own it end-to-end, and work directly with the people who use it.
 </p>
 
 ---
 
 ## About Me
 
-- Computer Science, Montana State University — May 2026  
-- Backend / Systems focused engineer  
-- Experience building production automation and secure data workflows  
-- Strong in performance, concurrency, and system reliability  
-- Interested in backend infrastructure, distributed systems, and database engines  
+- Computer Science, Montana State University — May 2026
+- Forward Deployed Engineer — I scope with customers, build fast, and ship to production
+- Hands-on experience in regulated environments (HIPAA, DoD / CMMC)
+- Comfortable owning the full stack: backend systems, data pipelines, and the dashboards customers actually touch
+- I treat "the customer is using it in production" as the only real measure of done
 
 ---
 
 ## Experience
 
-**Cybersecurity / IT Specialist — Hudson Sky**  
-- Monitor systems, detect threats, and respond to incidents  
-- Improve infrastructure reliability, performance, and security posture  
-- Networking, system hardening, and operational security  
+**Forward Deployed Engineer — Hudson Sky**
+- Led weekly scoping sessions with managing partners to define requirements, then shipped backend systems with frontend dashboards
+- Moved a client team out of email chains and legacy tools into a fully automated workflow
+- Owned production incidents end-to-end — triaging root cause under pressure and briefing non-technical stakeholders directly
 
-**Founder — LeadLock Automations**  
-- Designed scalable backend automation systems for businesses  
-- Built secure data workflows (RBAC, encryption, logging, audit trails)  
-- Automated high-volume operations improving reliability and efficiency  
+**Founder — LeadLock Automations**
+- Designed and shipped AI-driven business automation systems for client organizations
+- Built secure, production-grade data workflows (RBAC, encryption, logging, audit trails)
+- Translated technical constraints into plain language for non-technical decision-makers and drove adoption
 
 ---
 
-## Engineering Highlights
+## Selected Work
 
-- Multithreaded data pipeline processing **30,000+ records** with integrity + rollback  
-- Implemented indexing, ACID transactions, and concurrency control in C++  
-- Designed secure distributed automation systems with audit logging + RBAC  
-- Backend systems handling high-volume operations reliably  
-- Strong knowledge of memory, threading, and performance optimization  
+- **Air-gapped LLM for ERP querying (DoD contractor)** — plain-English querying of a production ERP database with zero data leaving the client network; deployed 13 CMMC L2 controls across the stack
+- **AI email automation pipeline (nationwide logistics)** — multi-turn thread tracking across thousands of concurrent conversations; partnered directly with operations leadership, driving 183% revenue growth in Q1 2026
+- **Retool management portal** — built from scratch to give operations teams live visibility, thread inspection, and manual override over the automation pipeline
+- **HIPAA-compliant data pipeline** — migrated 30,000+ medical records with encryption, audit logging, and least-privilege access to PHI
 
 ---
 
@@ -93,7 +92,7 @@ I build reliable, scalable, and secure backend systems with strong foundations i
 
 ---
 
-### Data • Automation • Business Tools
+### Data • Automation • Customer Tools
 <p>
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
 <img src="https://cdn.simpleicons.org/retool/3D3D3D" height="40"/>
@@ -102,18 +101,18 @@ I build reliable, scalable, and secure backend systems with strong foundations i
 </p>
 
 <p align="center">
-<b>Retool • UniFi • Power BI • NinjaRMM • Automation Platforms • Monitoring</b>
+<b>Retool • UniFi • Power BI • NinjaRMM • Ollama • SIEM • Monitoring</b>
 </p>
 
 ---
 
-## Current Focus
+## How I Work
 
-- Distributed Systems & Backend Architecture  
-- Database Internals & Storage Engines  
-- Performance Optimization & Concurrency  
-- Scalable Automation Systems  
-- Low-Level Systems Programming (C / C++)  
+- Embed with the customer — learn how the business actually operates before writing code
+- Build and ship fast, then iterate on real feedback
+- Own the result through deployment, incidents, and adoption
+- Handle the constraints others can't ignore: compliance, security, legacy systems
+- Translate between engineering and the people making decisions
 
 ---
 
