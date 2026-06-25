@@ -12,7 +12,7 @@
 </a>
 </p>
 
-<h3 align="center">Forward Deployed Engineer &nbsp;•&nbsp; AI &nbsp;•&nbsp; Data &nbsp;•&nbsp; Systems</h3>
+<h3 align="center">Forward Deployed Engineer &nbsp;&middot;&nbsp; AI &nbsp;&middot;&nbsp; Data &nbsp;&middot;&nbsp; Systems</h3>
 
 <p align="center">
 I embed with customers to turn ambiguous, high-stakes problems into shipped systems.<br>
@@ -32,19 +32,22 @@ and shipped to the people who actually use it.
 <tr>
 <td width="33%" valign="top">
 
-<h3>🛡️ Defense</h3>
+<h3><img src="https://unpkg.com/lucide-static@latest/icons/shield-check.svg" height="20" align="left" hspace="6"/> Defense</h3>
+
 Air-gapped LLM for plain-English ERP querying. Zero data leaves the client network. 13 CMMC L2 controls across the stack — AD auth + MFA, scoped SQL, SIEM audit logging, TLS everywhere.
 
 </td>
 <td width="33%" valign="top">
 
-<h3>🏥 Healthcare</h3>
+<h3><img src="https://unpkg.com/lucide-static@latest/icons/heart-pulse.svg" height="20" align="left" hspace="6"/> Healthcare</h3>
+
 HIPAA-compliant pipeline migrating 30,000+ medical records. Encryption, audit logging, and least-privilege access to PHI — deployed into a live clinical environment.
 
 </td>
 <td width="33%" valign="top">
 
-<h3>🚚 Logistics</h3>
+<h3><img src="https://unpkg.com/lucide-static@latest/icons/truck.svg" height="20" align="left" hspace="6"/> Logistics</h3>
+
 AI email automation tracking thousands of concurrent threads in real time. Built with operations leadership directly — drove <b>183% revenue growth</b> in Q1 2026.
 
 </td>
@@ -56,11 +59,11 @@ AI email automation tracking thousands of concurrent threads in real time. Built
 ## What I Do
 
 ```text
-Embed   →  learn how the business actually operates before writing code
-Build   →  ship production software fast, iterate on real feedback
-Own     →  deployment, incidents, adoption — the customer using it is "done"
-Handle  →  the constraints others can't ignore: compliance, security, legacy
-Bridge  →  translate between engineering and the people making decisions
+Embed   ->  learn how the business actually operates before writing code
+Build   ->  ship production software fast, iterate on real feedback
+Own     ->  deployment, incidents, adoption — the customer using it is "done"
+Handle  ->  the constraints others can't ignore: compliance, security, legacy
+Bridge  ->  translate between engineering and the people making decisions
 ```
 
 ---
@@ -71,6 +74,28 @@ Bridge  →  translate between engineering and the people making decisions
 - Lead weekly scoping sessions with managing partners, then ship backend systems with the frontend dashboards customers actually use
 - Moved a client team off email chains and legacy tools into a fully automated workflow
 - Own production incidents end-to-end — root-cause triage under pressure, briefing non-technical stakeholders directly
+
+---
+
+## Featured Project
+
+<table>
+<tr>
+<td width="120" align="center" valign="middle">
+<img src="https://www.letsdink.co/images/dink-mark.png" alt="dink" width="80"/>
+</td>
+<td valign="middle">
+
+<h3>dink — Built for two.</h3>
+
+A finance app for <b>dual-income, no-kids couples</b>. Link your own accounts, keep what's private, and share only what you choose — a split, a goal, a bill. Currently gathering its first couples ahead of launch.
+
+<a href="https://www.letsdink.co/#waitlist"><img src="https://img.shields.io/badge/Join_the_waitlist-f4533a?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.letsdink.co/"><img src="https://img.shields.io/badge/letsdink.co-0a0a0a?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,7 +113,7 @@ Bridge  →  translate between engineering and the people making decisions
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
 </p>
 
-**Backend • Systems • Infrastructure**
+**Backend &middot; Systems &middot; Infrastructure**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="38"/>
@@ -99,17 +124,19 @@ Bridge  →  translate between engineering and the people making decisions
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
 </p>
 
-**Frontend • Data • Customer Tools**
+**Frontend &middot; Data &middot; Customer Tools**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="38"/>
 <img src="https://cdn.simpleicons.org/retool/3D3D3D" height="38"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="38"/>
 <img src="https://cdn.simpleicons.org/datadog/632CA6" height="38"/>
 <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="38"/>
 </p>
 
 <p>
-<b>Security & Compliance:</b> CMMC L2 • HIPAA • NIST • RBAC • Encryption • SIEM • Active Directory<br>
-<b>AI:</b> Ollama • Llama 3.3 • Vanna AI • LLM deployment
+<b>Security &amp; Compliance:</b> CMMC L2 &middot; HIPAA &middot; NIST &middot; RBAC &middot; Encryption &middot; SIEM &middot; Active Directory<br>
+<b>AI:</b> Ollama &middot; Llama 3.3 &middot; Vanna AI &middot; LLM deployment
 </p>
 
 ---
