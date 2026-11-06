@@ -130,7 +130,7 @@ One shared place to manage spending, create budgets, split bills, track IOUs, bu
 </td>
 <td width="43%" valign="middle" align="center">
 
-<img src="./images/dink-showcase.png" width="100%" alt="Dink app showcase"/>
+<img src="./images/dink2.png" width="100%" alt="Dink app showcase"/>
 
 <sub>THE DINK APP EXPERIENCE</sub>
 
