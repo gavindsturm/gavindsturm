@@ -20,7 +20,7 @@ Working across applied AI, backend engineering, infrastructure, and complex ente
 
 <table>
 <tr>
-<td width="100%">
+<td width="100%" bgcolor="#0d1117">
 <sub>VERTEX / ENTERPRISE AI / GLOBAL TAX TECHNOLOGY</sub>
 
 # Vertex
@@ -29,9 +29,9 @@ Working across applied AI, backend engineering, infrastructure, and complex ente
 
 Building a full-scale AI-native platform for global tax and compliance, bringing intelligent capabilities into complex enterprise workflows.
 
-<img src="https://img.shields.io/badge/AI--Native-7057C5?style=flat" />
-<img src="https://img.shields.io/badge/Global_Tax-2878C8?style=flat" />
-<img src="https://img.shields.io/badge/Enterprise_Compliance-238636?style=flat" />
+<img src="https://img.shields.io/badge/AI--Native-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Global_Tax-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Enterprise_Compliance-6e7681?style=flat" />
 
 </td>
 </tr>
@@ -41,7 +41,7 @@ Building a full-scale AI-native platform for global tax and compliance, bringing
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d1117">
 <sub>LOGISTICS / AI AUTOMATION</sub>
 
 ### Intelligent Email Operations
@@ -51,13 +51,13 @@ Built an AI-powered email automation pipeline managing thousands of concurrent e
 Worked directly with operations leadership during a period of **183% revenue growth in Q1 2026**.
 
 <p>
-<img src="https://img.shields.io/badge/LLM_Workflows-7057C5?style=flat" />
-<img src="https://img.shields.io/badge/Email_Automation-2878C8?style=flat" />
-<img src="https://img.shields.io/badge/Operations-238636?style=flat" />
+<img src="https://img.shields.io/badge/LLM_Workflows-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Email_Automation-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Operations-6e7681?style=flat" />
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d1117">
 <sub>HEALTHCARE / DATA ENGINEERING</sub>
 
 ### Clinical Data Migration
@@ -67,15 +67,15 @@ Engineered a HIPAA-compliant pipeline supporting the migration of **30,000+ medi
 Built around encryption, audit logging, and least-privilege access to protected health information.
 
 <p>
-<img src="https://img.shields.io/badge/HIPAA-238636?style=flat" />
-<img src="https://img.shields.io/badge/Data_Pipelines-2878C8?style=flat" />
-<img src="https://img.shields.io/badge/PHI_Security-168B8B?style=flat" />
+<img src="https://img.shields.io/badge/HIPAA-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Data_Pipelines-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/PHI_Security-6e7681?style=flat" />
 </p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d1117">
 <sub>LEAPING AI / VOICE AI</sub>
 
 ### Conversational Voice AI
@@ -83,13 +83,13 @@ Built around encryption, audit logging, and least-privilege access to protected 
 Built voice AI pipelines enabling natural customer conversations and connecting AI interactions to real operational workflows.
 
 <p>
-<img src="https://img.shields.io/badge/Voice_AI-7057C5?style=flat" />
-<img src="https://img.shields.io/badge/LLM_Orchestration-2878C8?style=flat" />
-<img src="https://img.shields.io/badge/Automation-238636?style=flat" />
+<img src="https://img.shields.io/badge/Voice_AI-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/LLM_Orchestration-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Automation-6e7681?style=flat" />
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d1117">
 <sub>DEFENSE / SECURE ENTERPRISE AI</sub>
 
 ### Air-Gapped Enterprise LLM
@@ -97,9 +97,9 @@ Built voice AI pipelines enabling natural customer conversations and connecting 
 Deployed an air-gapped LLM for natural-language ERP querying, with scoped SQL access, Active Directory authentication, MFA, SIEM audit logging, TLS, and **13 CMMC Level 2 controls**.
 
 <p>
-<img src="https://img.shields.io/badge/Air--Gapped_AI-7057C5?style=flat" />
-<img src="https://img.shields.io/badge/CMMC_L2-238636?style=flat" />
-<img src="https://img.shields.io/badge/Enterprise_Security-168B8B?style=flat" />
+<img src="https://img.shields.io/badge/Air--Gapped_AI-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/CMMC_L2-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Enterprise_Security-6e7681?style=flat" />
 </p>
 
 </td>
@@ -166,26 +166,26 @@ A shared financial space designed for couples to manage money, stay organized, a
 **AI, Data & Observability**
 
 <p>
-<img src="https://img.shields.io/badge/LLM_Deployment-7057C5?style=flat" />
-<img src="https://img.shields.io/badge/Ollama-7057C5?style=flat" />
-<img src="https://img.shields.io/badge/Llama_3.3-7057C5?style=flat" />
-<img src="https://img.shields.io/badge/Vanna_AI-7057C5?style=flat" />
-<img src="https://img.shields.io/badge/SQL-2878C8?style=flat" />
-<img src="https://img.shields.io/badge/Power_BI-2878C8?style=flat" />
-<img src="https://img.shields.io/badge/Retool-2878C8?style=flat" />
-<img src="https://img.shields.io/badge/Datadog-2878C8?style=flat" />
+<img src="https://img.shields.io/badge/LLM_Deployment-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Ollama-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Llama_3.3-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Vanna_AI-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/SQL-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Power_BI-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Retool-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Datadog-6e7681?style=flat" />
 </p>
 
 **Security & Compliance**
 
 <p>
-<img src="https://img.shields.io/badge/CMMC_Level_2-238636?style=flat" />
-<img src="https://img.shields.io/badge/HIPAA-238636?style=flat" />
-<img src="https://img.shields.io/badge/NIST-238636?style=flat" />
-<img src="https://img.shields.io/badge/RBAC-168B8B?style=flat" />
-<img src="https://img.shields.io/badge/Active_Directory-168B8B?style=flat" />
-<img src="https://img.shields.io/badge/Encryption-168B8B?style=flat" />
-<img src="https://img.shields.io/badge/SIEM-168B8B?style=flat" />
+<img src="https://img.shields.io/badge/CMMC_Level_2-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/HIPAA-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/NIST-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/RBAC-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Active_Directory-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/Encryption-6e7681?style=flat" />
+<img src="https://img.shields.io/badge/SIEM-6e7681?style=flat" />
 </p>
 
 ---
