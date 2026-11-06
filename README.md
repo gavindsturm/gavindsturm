@@ -1,4 +1,3 @@
-
 # Gavin Sturm
 
 ### Forward Deployed Engineer
@@ -8,17 +7,11 @@ I build AI-native systems that move beyond prototypes and into production.
 Working across applied AI, backend engineering, infrastructure, and complex enterprise workflows. I enjoy taking ambiguous problems, getting close to the people experiencing them, and engineering systems that actually make a difference.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-1A1A1A?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://gavindsturm.github.io/gavinsturm_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-1A1A1A?style=flat-square&logo=googlechrome&logoColor=white" height="30" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="mailto:gavindarrellsturm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1A1A1A?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://gavindsturm.github.io/gavinsturm_portfolio/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:gavindarrellsturm@gmail.com">Email</a>
 </p>
 
 ---
@@ -34,9 +27,11 @@ Working across applied AI, backend engineering, infrastructure, and complex ente
 
 ### AI-Native Global Tax & Compliance Platform
 
-Building a full-scale AI-native platform for global tax and compliance. Bringing intelligent capabilities into complex enterprise tax workflows and helping modernize traditionally complicated processes.
+Building a full-scale AI-native platform for global tax and compliance, bringing intelligent capabilities into complex enterprise workflows.
 
-`AI-Native Platform` &nbsp; `Global Tax` &nbsp; `Enterprise Compliance`
+<img src="https://img.shields.io/badge/AI--Native-7057C5?style=flat" />
+<img src="https://img.shields.io/badge/Global_Tax-2878C8?style=flat" />
+<img src="https://img.shields.io/badge/Enterprise_Compliance-238636?style=flat" />
 
 </td>
 </tr>
@@ -55,7 +50,11 @@ Built an AI-powered email automation pipeline managing thousands of concurrent e
 
 Worked directly with operations leadership during a period of **183% revenue growth in Q1 2026**.
 
-`LLM Workflows` `Email Automation` `Operations`
+<p>
+<img src="https://img.shields.io/badge/LLM_Workflows-7057C5?style=flat" />
+<img src="https://img.shields.io/badge/Email_Automation-2878C8?style=flat" />
+<img src="https://img.shields.io/badge/Operations-238636?style=flat" />
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -67,7 +66,11 @@ Engineered a HIPAA-compliant pipeline supporting the migration of **30,000+ medi
 
 Built around encryption, audit logging, and least-privilege access to protected health information.
 
-`HIPAA` `Data Pipelines` `PHI Security`
+<p>
+<img src="https://img.shields.io/badge/HIPAA-238636?style=flat" />
+<img src="https://img.shields.io/badge/Data_Pipelines-2878C8?style=flat" />
+<img src="https://img.shields.io/badge/PHI_Security-168B8B?style=flat" />
+</p>
 
 </td>
 </tr>
@@ -79,7 +82,11 @@ Built around encryption, audit logging, and least-privilege access to protected 
 
 Built voice AI pipelines enabling natural customer conversations and connecting AI interactions to real operational workflows.
 
-`Voice AI` `LLM Orchestration` `Automation`
+<p>
+<img src="https://img.shields.io/badge/Voice_AI-7057C5?style=flat" />
+<img src="https://img.shields.io/badge/LLM_Orchestration-2878C8?style=flat" />
+<img src="https://img.shields.io/badge/Automation-238636?style=flat" />
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +96,11 @@ Built voice AI pipelines enabling natural customer conversations and connecting 
 
 Deployed an air-gapped LLM for natural-language ERP querying, with scoped SQL access, Active Directory authentication, MFA, SIEM audit logging, TLS, and **13 CMMC Level 2 controls**.
 
-`Air-Gapped AI` `CMMC L2` `Enterprise Security`
+<p>
+<img src="https://img.shields.io/badge/Air--Gapped_AI-7057C5?style=flat" />
+<img src="https://img.shields.io/badge/CMMC_L2-238636?style=flat" />
+<img src="https://img.shields.io/badge/Enterprise_Security-168B8B?style=flat" />
+</p>
 
 </td>
 </tr>
@@ -101,24 +112,22 @@ Deployed an air-gapped LLM for natural-language ERP querying, with scoped SQL ac
 
 <table>
 <tr>
-<td width="57%" valign="middle">
+<td width="50%" valign="middle">
 
-<sub>CO-FOUNDED PRODUCT / LIVE ON THE APP STORE</sub>
+<sub>CO-FOUNDED PRODUCT / APP STORE</sub>
 
 # dink
 
 ### Money is better together.
 
-A personal finance and budgeting app built for couples.
+A shared financial space designed for couples to manage money, stay organized, and build goals together.
 
-One shared place to manage spending, create budgets, split bills, track IOUs, build savings goals, and make managing money together more fun.
-
-**WHAT'S INSIDE**
+**FEATURES**
 
 - Shared budgets and spending
 - Savings goals and progress
 - Bill splitting and IOUs
-- Money challenges and friendly duels
+- Money challenges and duels
 - Monthly financial recaps
 
 <br/>
@@ -128,7 +137,7 @@ One shared place to manage spending, create budgets, split bills, track IOUs, bu
 </a>
 
 </td>
-<td width="43%" valign="middle" align="center">
+<td width="50%" valign="middle" align="center">
 
 <img src="./images/dink2.png" width="100%" alt="Dink app showcase"/>
 
@@ -156,26 +165,35 @@ One shared place to manage spending, create budgets, split bills, track IOUs, bu
 
 **AI, Data & Observability**
 
-`LLM Deployment` &nbsp; `Ollama` &nbsp; `Llama 3.3` &nbsp; `Vanna AI`
-
-`SQL` &nbsp; `Power BI` &nbsp; `Retool` &nbsp; `Datadog`
+<p>
+<img src="https://img.shields.io/badge/LLM_Deployment-7057C5?style=flat" />
+<img src="https://img.shields.io/badge/Ollama-7057C5?style=flat" />
+<img src="https://img.shields.io/badge/Llama_3.3-7057C5?style=flat" />
+<img src="https://img.shields.io/badge/Vanna_AI-7057C5?style=flat" />
+<img src="https://img.shields.io/badge/SQL-2878C8?style=flat" />
+<img src="https://img.shields.io/badge/Power_BI-2878C8?style=flat" />
+<img src="https://img.shields.io/badge/Retool-2878C8?style=flat" />
+<img src="https://img.shields.io/badge/Datadog-2878C8?style=flat" />
+</p>
 
 **Security & Compliance**
 
-`CMMC Level 2` &nbsp; `HIPAA` &nbsp; `NIST` &nbsp; `RBAC` &nbsp; `Active Directory` &nbsp; `Encryption` &nbsp; `SIEM`
+<p>
+<img src="https://img.shields.io/badge/CMMC_Level_2-238636?style=flat" />
+<img src="https://img.shields.io/badge/HIPAA-238636?style=flat" />
+<img src="https://img.shields.io/badge/NIST-238636?style=flat" />
+<img src="https://img.shields.io/badge/RBAC-168B8B?style=flat" />
+<img src="https://img.shields.io/badge/Active_Directory-168B8B?style=flat" />
+<img src="https://img.shields.io/badge/Encryption-168B8B?style=flat" />
+<img src="https://img.shields.io/badge/SIEM-168B8B?style=flat" />
+</p>
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-1A1A1A?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gavindsturm.github.io/gavinsturm_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-1A1A1A?style=flat-square&logo=googlechrome&logoColor=white" height="30" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gavindarrellsturm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1A1A1A?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://gavindsturm.github.io/gavinsturm_portfolio/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:gavindarrellsturm@gmail.com">Email</a>
 </p>
