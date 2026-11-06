@@ -1,54 +1,95 @@
-<h1 align="center">Gavin Sturm</h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://gavindsturm.github.io/gavinsturm_portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-0E0E0C?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
-<a href="mailto:gavindarrellsturm@gmail.com">
-<img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+# Gavin Sturm
+
+### Forward Deployed Engineer
+
+I build AI-native systems that move beyond prototypes and into production.
+
+Working across applied AI, backend engineering, infrastructure, and complex enterprise workflows. I enjoy taking ambiguous problems, getting close to the people experiencing them, and engineering systems that actually make a difference.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1A1A1A?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://gavindsturm.github.io/gavinsturm_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-1A1A1A?style=flat-square&logo=googlechrome&logoColor=white" height="30" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:gavindarrellsturm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-1A1A1A?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="center">Forward Deployed Engineer &nbsp;&middot;&nbsp; AI &nbsp;&middot;&nbsp; Data &nbsp;&middot;&nbsp; Systems</h3>
+---
 
-<p align="center">
-I embed with customers to turn ambiguous, high-stakes problems into shipped systems.<br>
-Production software for <b>defense</b>, <b>healthcare</b>, and <b>logistics</b> — built fast, owned end-to-end,<br>
-and shipped to the people who actually use it.
-</p>
-
-<div align="center">
-<a href="https://u8views.com/github/gavindsturm">
-<img src="https://u8views.com/api/v1/github/profiles/157625796/views/day-week-month-total-count.svg">
-</a>
-</div>
-
-<br>
+## 01 / CURRENTLY BUILDING
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="100%">
+<sub>VERTEX / ENTERPRISE AI / GLOBAL TAX TECHNOLOGY</sub>
 
-<h3><img src="https://unpkg.com/lucide-static@latest/icons/shield-check.svg" height="20" align="left" hspace="6"/> Defense</h3>
+# Vertex
 
-Air-gapped LLM for plain-English ERP querying. Zero data leaves the client network. 13 CMMC L2 controls across the stack — AD auth + MFA, scoped SQL, SIEM audit logging, TLS everywhere.
+### AI-Native Global Tax & Compliance Platform
 
-</td>
-<td width="33%" valign="top">
+Building a full-scale AI-native platform for global tax and compliance. Bringing intelligent capabilities into complex enterprise tax workflows and helping modernize traditionally complicated processes.
 
-<h3><img src="https://unpkg.com/lucide-static@latest/icons/heart-pulse.svg" height="20" align="left" hspace="6"/> Healthcare</h3>
-
-HIPAA-compliant pipeline migrating 30,000+ medical records. Encryption, audit logging, and least-privilege access to PHI — deployed into a live clinical environment.
+`AI-Native Platform` &nbsp; `Global Tax` &nbsp; `Enterprise Compliance`
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
 
-<h3><img src="https://unpkg.com/lucide-static@latest/icons/truck.svg" height="20" align="left" hspace="6"/> Logistics</h3>
+## 02 / SELECTED ENGINEERING WORK
 
-AI email automation tracking thousands of concurrent threads in real time. Built with operations leadership directly — drove <b>183% revenue growth</b> in Q1 2026.
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>LOGISTICS / AI AUTOMATION</sub>
+
+### Intelligent Email Operations
+
+Built an AI-powered email automation pipeline managing thousands of concurrent email threads and streamlining operational workflows.
+
+Worked directly with operations leadership during a period of **183% revenue growth in Q1 2026**.
+
+`LLM Workflows` `Email Automation` `Operations`
+
+</td>
+<td width="50%" valign="top">
+<sub>HEALTHCARE / DATA ENGINEERING</sub>
+
+### Clinical Data Migration
+
+Engineered a HIPAA-compliant pipeline supporting the migration of **30,000+ medical records** into a live clinical environment.
+
+Built around encryption, audit logging, and least-privilege access to protected health information.
+
+`HIPAA` `Data Pipelines` `PHI Security`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>LEAPING AI / VOICE AI</sub>
+
+### Conversational Voice AI
+
+Built voice AI pipelines enabling natural customer conversations and connecting AI interactions to real operational workflows.
+
+`Voice AI` `LLM Orchestration` `Automation`
+
+</td>
+<td width="50%" valign="top">
+<sub>DEFENSE / SECURE ENTERPRISE AI</sub>
+
+### Air-Gapped Enterprise LLM
+
+Deployed an air-gapped LLM for natural-language ERP querying, with scoped SQL access, Active Directory authentication, MFA, SIEM audit logging, TLS, and **13 CMMC Level 2 controls**.
+
+`Air-Gapped AI` `CMMC L2` `Enterprise Security`
 
 </td>
 </tr>
@@ -56,42 +97,42 @@ AI email automation tracking thousands of concurrent threads in real time. Built
 
 ---
 
-## What I Do
-
-```text
-Embed   ->  learn how the business actually operates before writing code
-Build   ->  ship production software fast, iterate on real feedback
-Own     ->  deployment, incidents, adoption — the customer using it is "done"
-Handle  ->  the constraints others can't ignore: compliance, security, legacy
-Bridge  ->  translate between engineering and the people making decisions
-```
-
----
-
-## Experience
-
-**Forward Deployed Engineer — Hudson Sky**
-- Lead weekly scoping sessions with managing partners, then ship backend systems with the frontend dashboards customers actually use
-- Moved a client team off email chains and legacy tools into a fully automated workflow
-- Own production incidents end-to-end — root-cause triage under pressure, briefing non-technical stakeholders directly
-
----
-
-## Featured Project
+## 03 / INDEPENDENT PRODUCT
 
 <table>
 <tr>
-<td width="120" align="center" valign="middle">
-<img src="https://www.letsdink.co/images/dink-mark.png" alt="dink" width="80"/>
+<td width="57%" valign="middle">
+
+<sub>CO-FOUNDED PRODUCT / LIVE ON THE APP STORE</sub>
+
+# dink
+
+### Money is better together.
+
+A personal finance and budgeting app built for couples.
+
+One shared place to manage spending, create budgets, split bills, track IOUs, build savings goals, and make managing money together more fun.
+
+**WHAT'S INSIDE**
+
+- Shared budgets and spending
+- Savings goals and progress
+- Bill splitting and IOUs
+- Money challenges and friendly duels
+- Monthly financial recaps
+
+<br/>
+
+<a href="https://apps.apple.com/us/app/dink-money-together/id6815071475">
+<img src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="38" alt="Download on the App Store"/>
+</a>
+
 </td>
-<td valign="middle">
+<td width="43%" valign="middle" align="center">
 
-<h3>dink — Built for two.</h3>
+<img src="./images/dink-showcase.png" width="100%" alt="Dink app showcase"/>
 
-A finance app for <b>dual-income, no-kids couples</b>. Link your own accounts, keep what's private, and share only what you choose — a split, a goal, a bill. Currently gathering its first couples ahead of launch.
-
-<a href="https://www.letsdink.co/#waitlist"><img src="https://img.shields.io/badge/Join_the_waitlist-f4533a?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.letsdink.co/"><img src="https://img.shields.io/badge/letsdink.co-0a0a0a?style=for-the-badge&logoColor=white"/></a>
+<sub>THE DINK APP EXPERIENCE</sub>
 
 </td>
 </tr>
@@ -99,48 +140,42 @@ A finance app for <b>dual-income, no-kids couples</b>. Link your own accounts, k
 
 ---
 
-## Tech Stack
+## 04 / TECHNOLOGY
 
 **Languages**
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
-</p>
-
-**Backend &middot; Systems &middot; Infrastructure**
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
-</p>
-
-**Frontend &middot; Data &middot; Customer Tools**
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="38"/>
-<img src="https://cdn.simpleicons.org/retool/3D3D3D" height="38"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="38"/>
-<img src="https://cdn.simpleicons.org/datadog/632CA6" height="38"/>
-<img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="38"/>
-</p>
 
 <p>
-<b>Security &amp; Compliance:</b> CMMC L2 &middot; HIPAA &middot; NIST &middot; RBAC &middot; Encryption &middot; SIEM &middot; Active Directory<br>
-<b>AI:</b> Ollama &middot; Llama 3.3 &middot; Vanna AI &middot; LLM deployment
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,cs,mysql&theme=dark" alt="Programming languages"/>
 </p>
+
+**Backend, Infrastructure & Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,nodejs,express,docker,gcp,git,react,tailwind&theme=dark" alt="Engineering technologies"/>
+</p>
+
+**AI, Data & Observability**
+
+`LLM Deployment` &nbsp; `Ollama` &nbsp; `Llama 3.3` &nbsp; `Vanna AI`
+
+`SQL` &nbsp; `Power BI` &nbsp; `Retool` &nbsp; `Datadog`
+
+**Security & Compliance**
+
+`CMMC Level 2` &nbsp; `HIPAA` &nbsp; `NIST` &nbsp; `RBAC` &nbsp; `Active Directory` &nbsp; `Encryption` &nbsp; `SIEM`
 
 ---
 
-<div align="center">
-<img src="https://ghchart.rshah.org/0e0e0c/gavindsturm" alt="Gavin Sturm GitHub contribution chart"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gavin-sturm-9bb34a213">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1A1A1A?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gavindsturm.github.io/gavinsturm_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-1A1A1A?style=flat-square&logo=googlechrome&logoColor=white" height="30" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gavindarrellsturm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-1A1A1A?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email"/>
+  </a>
+</p>
